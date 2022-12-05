@@ -69,3 +69,4 @@ modules in Python. I further practiced using the builtin function
   * [103-fast_alphabet.py](./103-fast_alphabet.py): Python program that prints the alphabet in
   uppercase, followed by a new line.
   * Without using loops, conditoinals, `str.join()`, string literals, or system calls.
+	ALX Python Project
